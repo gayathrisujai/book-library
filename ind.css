@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #e9eaec;
+}
+
+.book-detail-section h2 {
+    font-weight: 700;
+    color: #333;
+}
+
+.book-detail-section h5 {
+    font-weight: 500;
+    color: #666;
+}
+
+.book-detail-section p {
+    font-size: 1rem;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268;
+}

@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(images/234.jpeg);
+}
+
+.login-section {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    font-weight: 700;
+    color: #333;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
